@@ -1,4 +1,4 @@
-[![OS:Debian](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://debian.org/)
+[![OS:Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)](https://debian.org/)
 [![DE:MATE](https://img.shields.io/badge/DE-MATE-green?style=flat-square&logo=MATE)](https://mate-desktop.org/)
 - 👋 Hi, I’m @AnterCreeper, students of Peking University
 - 👀 MEEer, writing RTLs, doing homeworks.🤪
