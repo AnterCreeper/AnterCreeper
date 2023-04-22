@@ -1,3 +1,5 @@
+[![OS:Debian](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=ubuntu)](https://debian.org/)
+[![DE:MATE](https://img.shields.io/badge/DE-MATE-green?style=flat-square&logo=MATE)](https://mate-desktop.org/)
 - 👋 Hi, I’m @AnterCreeper, students of Peking University
 - 👀 MEEer, writing RTLs, doing homeworks.🤪
 - 🌱 I’m currently working on a OpenSource FPGA hardware, aiming to provide the easiest platform to get in touch with hardware designing🤗. And later i will doing(and invite others too!!!) some lab's projects on it too.
