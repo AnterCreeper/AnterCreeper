@@ -9,8 +9,8 @@
  ⢿⡄⠘⠷⠚⠋   
  ⠈⠳⣄  
 - 👋 Hi, I’m @AnterCreeper, students of Peking University
-- 👀 MEEer, writing RTLs, doing homeworks.🤪
-- 🌱 I’m currently working on a OpenSource FPGA hardware, aiming to provide the easiest platform to get in touch with hardware designing🤗. And later i will doing(and invite others too!!!) some lab's projects on it too.
+- 👀 Engineer, Full stack developer(Software, Firmware, Architecture, Hardware Implemetation, PCB Assembly, ASIC)🤪
+- 🌱 I’m currently working on a OpenSource FPGA hardware, aiming to provide the easiest platform to get in touch with hardware designing🤗.
 - 💞️ welcome to collaborate on it!🥺
 - 📫 feel free to send email to me [wangzhihao9@hotmail.com](mailto:wangzhihao9@hotmail.com)
 
