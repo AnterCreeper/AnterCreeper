@@ -11,8 +11,14 @@
 - 👋 Hi, I’m @AnterCreeper, students of Peking University
 - 👀 MEEer, writing RTLs, doing homeworks.🤪
 - 🌱 I’m currently working on a OpenSource FPGA hardware, aiming to provide the easiest platform to get in touch with hardware designing🤗. And later i will doing(and invite others too!!!) some lab's projects on it too.
-- 💞️ I’m looking to collaborate on it!!! PEOPLE NEEDS!🥺
+- 💞️ welcome to collaborate on it!🥺
 - 📫 feel free to send email to me [wangzhihao9@hotmail.com](mailto:wangzhihao9@hotmail.com)
+
+<div align="center">
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antercreeper&theme=github_dark)](https://github.com/antercreeper)
+
+</div>
 
 <!---
 AnterCreeper/AnterCreeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
