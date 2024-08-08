@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antercreeper&theme=github_dark)](https://github.com/antercreeper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
