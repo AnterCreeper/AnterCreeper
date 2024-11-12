@@ -9,8 +9,8 @@
  ⢿⡄⠘⠷⠚⠋   
  ⠈⠳⣄  
 - 👋 Hi, I’m @AnterCreeper, student of Peking University
-- 👀 Engineer, Full stack developer(Software, Firmware, Architecture, Hardware Implemetation, PCB Assembly, ASIC)🤪
-- 🌱 I’m currently working on a OpenSource FPGA hardware, aiming to provide the easiest platform to get in touch with hardware designing🤗.
+- 👀 Engineer, Full stack developer🤪
+- 🌱 I’m currently working on hardware designing🤗.
 - 💞️ welcome to collaborate on it!🥺
 - 📫 feel free to send email to me [wangzhihao9@hotmail.com](mailto:wangzhihao9@hotmail.com)
 
