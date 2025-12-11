@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Top Langs](https://readme-stats.aceps.top/top-langs/?username=antercreeper&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.aceps.top/top-langs/?username=antercreeper&layout=compact&size_weight=0.5&count_weight=0.5&&exclude_repo=llvm-sodium)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
