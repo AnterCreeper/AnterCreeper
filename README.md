@@ -1,6 +1,6 @@
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![OS:Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square&logo=debian)](https://debian.org/)
-[![DE:MATE](https://img.shields.io/badge/DE-MATE-green?style=flat-square&logo=MATE)](https://mate-desktop.org/)
+[![DE:XFCE](https://img.shields.io/badge/DE-XFCE-blue?style=flat-square&logo=XFCE&logoColor=ffffff)](https://mate-desktop.org/)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=flat-square&logo=verilog)
 
