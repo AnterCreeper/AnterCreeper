@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Top Langs](./profile/top-langs.svg)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
