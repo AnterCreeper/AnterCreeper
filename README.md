@@ -13,6 +13,9 @@
  ⣾⠁⢠⠒⠀⣿⡁  
  ⢿⡄⠘⠷⠚⠋   
  ⠈⠳⣄  
+ 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/antercreeper/antercreeper)
+
 - 👋 Hi, I’m @AnterCreeper, student of Peking University 😘
 - 👀 Engineer, Full stack developer 🤪
 - 🌱 I’m currently working on hardware designing 🤗
